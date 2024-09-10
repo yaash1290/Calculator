@@ -10,3 +10,4 @@ function Display({calval}){
 }
 
 export default Display
+//display
